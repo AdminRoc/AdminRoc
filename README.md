@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+
+-->
+
 ### I'm Roc.K
 - 🌱 Java开发者--Java天下第一  
 - 🌱 Cobol开发者 数据大师--三年经验  
@@ -14,10 +17,13 @@ Here are some ideas to get you started:
 - 🌱 读书爱好者--最近在读《罪全书》 
  
 - 💬 null
--->
+
+
+
+<!--
 <p align="center">
   <img width="" height="300" src="https://github.com/muftisamiullah/muftisamiullah/raw/master/bio.gif">
 </p>
 
-
+-->
  
