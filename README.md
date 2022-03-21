@@ -9,17 +9,17 @@ Here are some ideas to get you started:
 -->
 
 ### I'm Roc.K
-- 🌱 Java开发者--Java天下第一  
-- 🌱 Python爱好者--爬虫 压力测试 
-- 🌱 Swift爱好者--算了，其实是萌新 
-- 🌱 Cobol使用者--国企数据管理--三年经验  
-- 🌱 服务器维护者--资深DBA 住在服务器隔壁的男人 
+- 🌱 Java开发者--Java天下第一(Past) 
+- 🌱 Python爱好者--爬虫 压力测试(Past) 
+- 🌱 Swift爱好者--算了，其实是萌新(Past) 
+- 🌱 Cobol使用者--国企数据管理--三年经验(Past) 
+- 🌱 服务器维护者--资深DBA 住在服务器隔壁的男人(Past) 
 - 🌱 读书爱好者--最近在读《罪全书》 
 - 🌱 美剧爱好者--各种类型全都看，尤其喜欢《美国恐怖故事》
  
-- 💬 最近一直在van♂原神，
-欢迎加入SnapGenshin的闲聊群，一起吹水：240095771 / 547288075
-
+- 💬 秃头是不可能秃头的，已做PM躺平，最近一直在van♂原神，
+# [这就不得不提到玩原神必备的SnapGenshin）](https://www.snapgenshin.com/home/)
+# [即便不使用，也可以加入SnapGenshin的闲聊群，一起吹水](https://jq.qq.com/?_wv=1027&k=cgh9S2XW)
 - 💬 原神开源项目：
 
 
