@@ -40,10 +40,10 @@ Here are some ideas to get you started:
  
  
  
+ # [点击下图加入SnapGenshin的问题反馈群（只反馈使用问题，不闲聊）：](https://www.snapgenshin.com/documents/FAQ/failed-load.html#%E6%9B%B4%E6%96%B0-net-6-0-2-%E6%A1%8C%E9%9D%A2%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83)
  
-  点击下图加入SnapGenshin的问题反馈群（只反馈使用问题，不闲聊）：
  
- [![Snap.Genshin](https://www.snapgenshin.com/logo/Home.png)](https://qm.qq.com/cgi-bin/qm/qr?k=TNr7u60p6dOkAnHHvn6uXQKGD4nvkatr&jump_from=webapi/)
+ [![Snap.Genshin](https://www.snapgenshin.com/logo/Home.png)](https://qm.qq.com/cgi-bin/qm/qr?k=BiLebwP8GhuSyXz3lphlA8UpinT_HBXQ&jump_from=webapi)
  
  
 
