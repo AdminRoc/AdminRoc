@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <div align="center"> 
  
  
- <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=YVkgdfifV0oHOlL3ihcBQ-5Mvv7mr4fX&jump_from=webapi"><img border="0" src="//www.snapgenshin.com/logo/Home.png" alt="点击加入SG的闲聊三群" title="点击加入SG的闲聊三群"></a>
  
  [![Snap.Genshin](https://www.snapgenshin.com/logo/Home.png)](https://qm.qq.com/cgi-bin/qm/qr?k=YVkgdfifV0oHOlL3ihcBQ-5Mvv7mr4fX&jump_from=webapi/)
  
