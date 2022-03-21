@@ -29,6 +29,10 @@ Here are some ideas to get you started:
  
  <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=YVkgdfifV0oHOlL3ihcBQ-5Mvv7mr4fX&jump_from=webapi"><img border="0" src="//www.snapgenshin.com/logo/Home.png" alt="点击加入SG的闲聊三群" title="点击加入SG的闲聊三群"></a>
  
+ [![Snap.Genshin](https://www.snapgenshin.com/logo/Home.png)](https://qm.qq.com/cgi-bin/qm/qr?k=YVkgdfifV0oHOlL3ihcBQ-5Mvv7mr4fX&jump_from=webapi/)
+ 
+ 
+ 
 
 [![Snap.Genshin](https://socialify.git.ci/DGP-Studio/Snap.Genshin/image?description=1&font=Inter&forks=1&language=1&logo=https%3A%2F%2Fgithub.com%2FDGP-Studio%2FSnap.Genshin%2Fblob%2Fmain%2FDesign%2FSGLogo.png%3Fraw%3Dtrue&pattern=Signal&stargazers=1&theme=Dark)](https://www.snapgenshin.com/home/)
 
