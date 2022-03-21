@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 欢迎加入SnapGenshin的闲聊群，一起吹水：240095771 / 547288075
 
 - 💬 原神开源项目：
+- <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=YVkgdfifV0oHOlL3ihcBQ-5Mvv7mr4fX&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Snap Genshin Ⅲ" title="Snap Genshin Ⅲ"></a>
+- 
 <div align="center"> 
 
 [![Snap.Genshin](https://socialify.git.ci/DGP-Studio/Snap.Genshin/image?description=1&font=Inter&forks=1&language=1&logo=https%3A%2F%2Fgithub.com%2FDGP-Studio%2FSnap.Genshin%2Fblob%2Fmain%2FDesign%2FSGLogo.png%3Fraw%3Dtrue&pattern=Signal&stargazers=1&theme=Dark)](https://www.snapgenshin.com/home/)
