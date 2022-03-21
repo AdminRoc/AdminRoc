@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 <div align="center"> 
  
  
- 
- [![Snap.Genshin](https://www.snapgenshin.com/logo/Home.png)](https://qm.qq.com/cgi-bin/qm/qr?k=YVkgdfifV0oHOlL3ihcBQ-5Mvv7mr4fX&jump_from=webapi/)
+
  
  
  
@@ -37,7 +36,16 @@ Here are some ideas to get you started:
 |![lines](https://img.shields.io/tokei/lines/github/DGP-Studio/Snap.Genshin?style=flat-square)|![GitHub repo size](https://img.shields.io/github/repo-size/DGP-Studio/Snap.Genshin?style=flat-square)|![GitHub issues](https://img.shields.io/github/issues/DGP-Studio/Snap.Genshin?style=flat-square)|![GitHub closed issues](https://img.shields.io/github/issues-closed/DGP-Studio/Snap.Genshin?style=flat-square)|
 |-|-|-|-|
 
-# [点击进入主页](https://www.snapgenshin.com/home/)
+# [点击进入SG的主页（使用文档及SG下载）](https://www.snapgenshin.com/home/)
+ 
+ 
+ 
+ 
+  点击下图加入SnapGenshin的问题反馈群（只反馈使用问题，不闲聊）：
+ 
+ [![Snap.Genshin](https://www.snapgenshin.com/logo/Home.png)](https://qm.qq.com/cgi-bin/qm/qr?k=TNr7u60p6dOkAnHHvn6uXQKGD4nvkatr&jump_from=webapi/)
+ 
+ 
 
 
 </div>
