@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 Java开发者--Java天下第一(Past) 
 - 🌱 Python爱好者--爬虫 压力测试(Past) 
 - 🌱 Swift爱好者--算了，其实是萌新(Past) 
-- 🌱 Cobol使用者--国企数据管理--三年经验(Past) 
+- 🌱 Cobol使用者--国企数据管理--三百年经验(Past) 
 - 🌱 服务器维护者--资深DBA 住在服务器隔壁的男人(Past) 
 - 🌱 读书爱好者--最近在读《罪全书》 
 - 🌱 美剧爱好者--各种类型全都看，尤其喜欢《美国恐怖故事》
