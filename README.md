@@ -15,7 +15,7 @@
 - 🎮 秃头是不可能秃头的，已做PM躺平，开始享受生活。（Warframe、原神、老头环、戴森球计划......）
 
 - 📳 安利时间：
-- 
+
 # [这就不得不提到原神玩家必备的SnapGenshin](https://www.snapgenshin.com/home/)
 
 # [不使用，也可以加入SnapGenshin的闲聊群，一起吹水](https://jq.qq.com/?_wv=1027&k=cgh9S2XW)
@@ -26,7 +26,7 @@
 <div align="center"> 
 
 
-[![Snap.Genshin](https://socialify.git.ci/DGP-Studio/Snap.Genshin/image?description=1&font=Inter&forks=1&language=1&logo=https%3A%2F%2Fgithub.com%2FDGP-Studio%2FSnap.Genshin%2Fblob%2Fmain%2FDesign%2FSGLogo.png%3Fraw%3Dtrue&pattern=Signal&stargazers=1&theme=Dark)](https://www.snapgenshin.com/home/)
+[![Snap.Genshin](https://socialify.git.ci/DGP-Studio/Snap.Genshin/image?description=1&font=Inter&forks=1&language=1&logo=https%3A%2F%2Fgithub.com%2FDGP-Studio%2FSnap.Genshin%2Fblob%2Fmain%2FDesign%2FSGLogo.png%3Fraw%3Dtrue&pattern=Signal&stargazers=1&theme=Dark)](https://github.com/DGP-Studio/Snap.Genshin/releases/)
 
 |![lines](https://img.shields.io/tokei/lines/github/DGP-Studio/Snap.Genshin?style=flat-square)|![GitHub repo size](https://img.shields.io/github/repo-size/DGP-Studio/Snap.Genshin?style=flat-square)|![GitHub issues](https://img.shields.io/github/issues/DGP-Studio/Snap.Genshin?style=flat-square)|![GitHub closed issues](https://img.shields.io/github/issues-closed/DGP-Studio/Snap.Genshin?style=flat-square)|
 |-|-|-|-|
@@ -35,7 +35,7 @@
  
  
  
- # [点击下图加入SG的问题反馈群(只反馈使用问题，不闲聊)👇👇👇](https://www.snapgenshin.com/documents/FAQ/failed-load.html#%E6%9B%B4%E6%96%B0-net-6-0-2-%E6%A1%8C%E9%9D%A2%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83)
+ # [点击下图加入SG的问题反馈群(只反馈使用问题，不闲聊)👇👇👇](https://www.snapgenshin.com/documents/)
  
  
  [![Snap.Genshin](https://www.snapgenshin.com/logo/Home.png)](https://qm.qq.com/cgi-bin/qm/qr?k=BiLebwP8GhuSyXz3lphlA8UpinT_HBXQ&jump_from=webapi)
