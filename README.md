@@ -26,7 +26,7 @@
 <div align="center"> 
 
 
-[![Snap.Genshin](https://socialify.git.ci/DGP-Studio/Snap.Genshin/image?description=1&font=Inter&forks=1&language=1&logo=https%3A%2F%2Fgithub.com%2FDGP-Studio%2FSnap.Genshin%2Fblob%2Fmain%2FDesign%2FSGLogo.png%3Fraw%3Dtrue&pattern=Signal&stargazers=1&theme=Dark)](https://github.com/DGP-Studio/Snap.Genshin/releases/)
+[![Snap.Genshin](https://repository-images.githubusercontent.com/331187187/0a2420e5-881a-4709-9f99-fdd42f13e1fc)](https://github.com/DGP-Studio/Snap.Genshin/releases)
 
 |![lines](https://img.shields.io/tokei/lines/github/DGP-Studio/Snap.Genshin?style=flat-square)|![GitHub repo size](https://img.shields.io/github/repo-size/DGP-Studio/Snap.Genshin?style=flat-square)|![GitHub issues](https://img.shields.io/github/issues/DGP-Studio/Snap.Genshin?style=flat-square)|![GitHub closed issues](https://img.shields.io/github/issues-closed/DGP-Studio/Snap.Genshin?style=flat-square)|
 |-|-|-|-|
