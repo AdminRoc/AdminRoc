@@ -19,7 +19,7 @@
 
 - ❤️ 请看安利 ❤️：
 
-# [这就不得不提到原神玩家必备的SnapGenshin](https://www.snapgenshin.com/home/)"Snap.Hutao"在完善中，已开始公测
+# [这就不得不提到原神玩家必备的SnapGenshin](https://www.snapgenshin.com/home/) "Snap.Hutao在完善中，已开始公测" 
 
 # [如果你已经是SG用户，来加入SnapGenshin的闲聊群，一起吹水](https://jq.qq.com/?_wv=1027&k=q0oZ822F)
 
