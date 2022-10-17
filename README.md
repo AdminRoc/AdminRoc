@@ -19,12 +19,14 @@
 
 - ❤️ 请看安利 ❤️：
 
- [原神玩家必备的SnapGenshin](https://www.snapgenshin.com/home/) （新项目Snap.Hutao在完善中，已开始公测）
- 
- #SG(SnapGenshin)项目官网：snapgenshin.com/home/
- #胡桃(SnapHutao)项目官网：hut.ao
+ 🎠 SnapGenshin是安全的全开源项目，作为原神的综合工具箱，内置胡桃数据库，每周期都有万人主动提交深渊以及角色数据。
 
-# 🎠 SnapGenshin是安全的全开源项目，作为原神的综合工具箱，内置胡桃数据库，每周期都有万人主动提交深渊以及角色数据。
+ 
+ # SG(Snap.Genshin)项目官网：https://snapgenshin.com/home/
+ # 胡桃(Snap.Hutao)项目官网：https://hut.ao     
+（新项目Snap.Hutao为SG迁移WinUI3后的项目，已开始公测，并持续完善）
+
+
 
 
  - 如果你已经是SG用户，来加入SnapGenshin的闲聊群，一起吹水
